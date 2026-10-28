@@ -1,8 +1,8 @@
 /* ===== 1. EDIT YOUR LINKS HERE =====
    Leave a value empty ("") until you have the URL. Empty links are shown as pending. */
 const LINKS = {
-  github: "",      // [Add GitHub URL] e.g. https://github.com/yourname
-  linkedin: "",    // [Add LinkedIn URL]
+  github: "https://github.com/chaithanya016",      // [Add GitHub URL] e.g. https://github.com/yourname
+  linkedin: "https://www.linkedin.com/in/h-j-chaithanya-prasad-166404284/",    // [Add LinkedIn URL]
   project1: "",    // [Add GitHub URL] Speech Disorder Classification
   project1demo: "",// [Add live demo URL]
   project2: "",    // [Add GitHub URL] FP-Growth vs Random Forest
